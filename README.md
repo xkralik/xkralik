@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @xkralik
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... Laravel
+- 👋 Hi, I’m Filip
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Laravel
+<!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+--->
 
 <!---
 xkralik/xkralik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
